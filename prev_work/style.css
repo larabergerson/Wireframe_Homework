@@ -1,0 +1,86 @@
+.clearfix::after{
+    content: " ";
+    display: block;
+    clear: both;
+}
+
+h1{
+    margin: 10px;
+    padding: 40px;
+    background: white;
+    text-align: center;
+    color: lightgray
+}
+
+h2{
+    margin: 100px;
+    padding: 40px;
+    background: white;
+    text-align: center;
+    color: lightgray
+}
+
+h3{
+    margin: 100px;
+    padding: 10px;
+    background: white;
+    text-align: center;
+    color: lightgray
+}
+
+aside{
+    float: left;
+}
+
+main{
+    float: left;
+}
+.frames{
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 90%;
+    background: gray;
+}
+
+
+.Header{
+    background: white;
+    height: 100px;
+    padding: 10px;
+}
+
+Nav{
+    background: white:
+    padding: 10px:
+
+}
+
+Section{
+    position: relative;
+    background: white;
+    padding: 10px;
+    margin: 10px;
+    width: 50%
+    height: 300px;
+    
+}
+
+Article{
+    position: relative;
+    background: gray;
+    
+}
+
+Aside{
+    background: white;
+    padding: 10px;
+    margin-left: 10px;
+    width: 50%;
+
+    body { 
+    background-color: light gray;
+
+}
+    div{
+    padding: 50px;
+}

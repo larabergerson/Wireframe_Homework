@@ -1,0 +1,41 @@
+body{
+    background:gray;
+}
+
+h1{
+    /* border: 2px solid black; */
+    background-color: white;
+    padding: 30px;
+    margin: 10px;
+    width: 80%;
+    text-align: center;
+    font-size: 16px;
+    color: gray;
+}
+
+.left{
+ background-color: darkgray;
+    padding:70px;
+    width: 33.33%;
+    /* border: 2px solid black; */
+    float:left;
+}
+ #one{ 
+    position: relative;
+}
+/* .clear{
+    clear:both;
+} */
+
+#two{
+    background-color:white;
+    position: relative;
+}
+
+#three{
+    background:white;
+    position: fixed;
+}
+
+
+
