@@ -2,40 +2,101 @@ body{
     background:gray;
 }
 
-h1{
-    /* border: 2px solid black; */
+.wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    width: 77%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+
+.row {
     background-color: white;
-    padding: 30px;
-    margin: 10px;
-    width: 80%;
     text-align: center;
-    font-size: 16px;
+    font-size: 18px;
     color: gray;
+    padding: 40px;
 }
 
-.left{
- background-color: darkgray;
-    padding:70px;
-    width: 33.33%;
-    /* border: 2px solid black; */
-    float:left;
+.top { 
+    margin-bottom: 10px;
 }
- #one{ 
-    position: relative;
-}
-/* .clear{
-    clear:both;
-} */
-
-#two{
-    background-color:white;
-    position: relative;
+.navbar{
+    margin-bottom: 20px;
 }
 
-#three{
-    background:white;
-    position: fixed;
+p {
+    padding: 20px;
+    margin-top: 15px;
+    display: block;
+}
+.container {
+    width: 55%;
+    height: 275px;
+    padding-bottom: 20px;
+    background-color: white;
+    font-size: 18px;
+    color: gray;
+    text-align: center;
+    float: left;
+    top: 20px;
+}
+.article{
+    background-color: grey;
+    margin: auto;
+    margin-top: -10px;
+    text-align: center;
+    font-size: bold 18px;
+    color: white;
+    width: 96%;
+    height: 74%;
+    
 }
 
+.box{
+    margin: -20px auto;
+    position: static;
+    height: 9%;
+    width: 85%;
+}
+
+.sidebar {
+    width: 42.75%;
+    height: 275px;
+    padding-bottom: 20px;
+    background-color: white;
+    font-size: 18px;
+    color: gray;
+    text-align: center;
+    float: right;
+}
+
+
+.hs{
+    background-color: white;
+    text-align: center;
+    color: grey;
+    
+    margin-bottom: 30px;
+    padding:20px;
+    
+}
+
+.ppp{
+    background-color: white;
+    text-align: center;
+    color: grey;
+    padding:20px;
+    margin-bottom: 20px;
+}
+
+.clear {
+    clear: both;
+}
+
+.shoes {
+    margin-top: 20px;
+}
 
 
